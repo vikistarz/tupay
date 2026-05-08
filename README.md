@@ -28,6 +28,17 @@ A high-performance Flutter fintech application built for seamless cross-border t
 - **State Restoration**
 - **Background Isolates**
 - **CustomPainter-ready** (prepared for receipts)
+- 
+## 📹 Demo Video
+
+**[Watch 2-Minute Demo Video](https://drive.google.com/file/d/1YzO6oo5ug6_odTIc6lY3QTNyr12wtDgU/preview)**
+
+Demonstrates:
+- Smooth scrolling with SliverPersistentHeader
+- State restoration in Transfer flow
+- Balance validation & error handling
+- Privacy overlay when app goes to background
+- Full navigation and UI fidelity
 
 
 
